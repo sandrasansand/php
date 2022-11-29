@@ -1,0 +1,94 @@
+body { 
+    font-family: Verdana; 
+    font-size: 12px; 
+} 
+  
+a {color: #48577D; text-decoration: none;} 
+  
+a:hover {text-decoration: underline;} 
+  
+h1, h2 {margin-bottom: 15px} 
+  
+h1 {font-size: 18px;} 
+h2 {font-size: 16px} 
+
+table { 
+    width: 90%; 
+} 
+
+table th { 
+    padding: 10px; 
+    background-color: #48577D;
+    color: #fff; 
+    text-align: center;
+} 
+
+table td { 
+    padding: 5px; 
+    text-align: left;
+} 
+
+table tr { 
+    background-color: #778899;
+} 
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #f1f1f1;
+    text-align: center;
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 2px 0 2px 4px;
+    text-decoration: none;
+}
+
+li a.active {
+    background-color: #48577D;
+    color: white;
+}
+
+li a:hover:not(.active) {
+    background-color: #444;
+    color: white;
+}
+    
+.secc1 {
+    grid-area: logo;
+    background-color: rgb(255,255,255) ;
+}
+
+.secc2 {
+    grid-area: indice;
+    background-color: rgb(255,255,255) ;
+}
+
+.secc3 {
+    grid-area: lista;
+    background-color: rgb(255,255,255) ;
+}
+
+.secc4 {
+    grid-area: pie;
+    background-color: rgb(255,255,255) ;
+}
+
+.contenido { 
+    display: grid;
+    grid-template-columns: 8% 90% ;
+    grid-template-areas: 'logo logo'
+                         'indice lista'
+                         'indice pie';
+    grid-gap: 10px;
+    padding: 10px;
+    background-color: rgb(255,255,255) ;
+    justify-content: center;
+} 
+
+.contenido > div { 
+    background-color: rgb(255,255,255) ;
+}

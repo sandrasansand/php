@@ -1,0 +1,18 @@
+<!-- Ejemplo 3.4.6. Uno de sus usos habituales es redirigir hacia una página de
+error, en caso de que haya fallos en los datos. Aquí se valida una dirección de
+email, y si es incorrecta se reenvía a una página de error. -->
+<html>
+<head>
+<meta charset="utf-8">
+<title>Suscripción al boletín electrónico</title>
+</head>
+<body>
+Bienvenido al servicio de suscripción.<br>
+Por favor, introduzca una dirección de email válida.<br>
+<form name="suscripcion" method="post" action="guardar.php">
+Email: <input type="text" name="email" size="40"><br>
+<input type="submit" value="Enviar">
+</form>
+</body>
+</html>
+

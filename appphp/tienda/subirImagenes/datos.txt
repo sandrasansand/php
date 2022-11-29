@@ -1,0 +1,8 @@
+CREATE TABLE products(
+id INT NOT NULL AUTO_INCREMENT,
+ruta VARCHAR(100) NULL,
+nombre VARCHAR(30) NULL,
+
+primary key(id)
+
+);

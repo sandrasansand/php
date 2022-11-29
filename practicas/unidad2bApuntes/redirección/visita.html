@@ -1,0 +1,20 @@
+<!-- Ejemplo 3.4.5. Este es un ejemplo típico de recepción de datos. En primer
+lugar, se incluye una sencilla página web con un formulario que pide el nombre
+y un comentario para almacenarlo en un registro de visitas. En el script
+“insertar.php” se almacena en la base de datos y se redirecciona a una página gracias.html para dar las gracias. -->
+
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Libro de visitas</title>
+</head>
+<body>
+<form name="visita" method="post" action="insertar.php"> 
+Nombre: <input type="text" name="nombre" size="44"><br>
+Comentario:<br>
+<textarea name="comentario" cols="40" rows="5"></textarea><br>
+<input type="submit" value="Enviar">
+</form>
+</body>
+</html>
+

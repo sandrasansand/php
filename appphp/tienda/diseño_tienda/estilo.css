@@ -1,0 +1,32 @@
+.cabecera{
+	background-color:#C6FCCE;
+	width:95%;
+	height:10%;
+	margin:auto;
+	color:#FC8E25;
+	padding: 20px;
+	border-radius:5px;
+	text-align:left;
+	font-size:20px;
+	font-family: Georgia, serif;
+    margin: auto;
+}
+
+.caja{
+	background-color: white;
+	float:left;
+	color:white;
+	width:15%;
+	height:28%;
+	text-align:center;
+	border: 1px solid #FAD762;
+	border-radius: 10px;
+
+
+}
+.contenedor{
+	background:white;
+	width:60%;
+	height:57%;
+	margin:auto;
+}

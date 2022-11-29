@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url(https://fonts.googleapis.com/css?family=Roboto:400);
+body{
+	margin: 5%;
+}
+h1,h2,h3{
+	font-family: "Amatic SC", cursive;
+	
+}
+th {
+	font-weight:bold;
+	/* display:inline-block;*/
+	font-family: 'Amatic SC', cursive;
+	font-size: 24px;
+	padding: 10px;
+	font-weight:bold;
+	background-color: #fdfdf1;
+	background-repeat: repeat-x;
+	color: #990000;
+	text-align:center;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-right-color: #EBE9BC;
+	border-bottom-color: #EBE9BC;
+	max-width: 70%;
+}
+
+tr{
+
+	font-weight:bold;
+	/* display:inline-block;*/
+	font-family:'Work Sans', sans-serif;
+	font-size: 14px;
+	text-align:left;
+	max-height:70%;
+
+
+
+}
+button{
+	display: block;
+	background-color:#39383A;
+	padding: 10px 45px 10px 45px;
+	border: 0;
+	font-size: 2em; 
+	color: 	white;
+	font-family: "Amatic SC", sans-serif;
+	width:25%;
+	margin: 20%;
+	text-align: center;
+
+
+
+
+
+}
+
+button:hover {
+	font-family: "Amatic SC", sans-serif;
+	background-color: #046193;
+	cursor: pointer;
+}
+
+
+form{
+  padding: 60px;
+  max-width: 300px;
+  background-color: #E7E7E7;
+  margin: 5%;
+  float: left;
+}
+
+form input[type="text"],form textarea
+{
+  margin-bottom: 15px;
+  font-family:'Work Sans', sans-serif;
+  width: 100%;
+  padding: 10px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box; 
+  border: 1px; 
+  color: #525c66; 
+  font-size: 14px;
+  resize: horizontal; 
+}
+form input[type="submit"],input[type="reset"]{
+	display: block;
+	background-color:#39383A;
+  /* #0095eb;*/
+  padding: 10px 45px 10px 45px;
+  border: 0;
+  font-size: 1em; 
+  color: 	white;
+  font-family: "Amatic SC", sans-serif;
+}
+form input[type="submit"]:hover {
+  font-family: "Amatic SC", sans-serif;
+  background-color: #046193;
+  cursor: pointer;
+}
+form input[type="reset"]:hover {
+  font-family: "Amatic SC", sans-serif;
+  background-color: #046193;
+  cursor: pointer;
+}
+form button {
+	display: block;
+	background-color: #0095eb;
+	padding: 10px 45px 10px 45px;
+	border: 0;
+	font-size: 1em; 
+	color: 	white;
+    font-family: "Work Sans", sans-serif;
+}
+form button: hover{
+	background-color: #046193;
+}

@@ -1,0 +1,36 @@
+<?
+  session_start();
+  if(!isset($_SESSION['carrito'])){
+    $tmp[]="ID:Clave:Cantidad:Cliente:PrecioUnitario";
+    $tmp2[]="1:Chicles:245:1.5";
+    $tmp2[]="2:Chocolates:132:6";
+    $tmp2[]="3:Paletas:67:3";
+    $tmp2[]="4:Globitos:87:6.9";
+    $tmp2[]="5:Espejos:132:25.3";
+    $tmp2[]="6:Gorritos:78:46";
+    $tmp2[]="7:Bebidas:98:73.5";
+    $tmp2[]="8:Botanas:156:18.6";
+    $tmp2[]="9:Vasos:76:5";
+    $tmp2[]="10:Cristales:104:67.3";
+    $tmp2[]="11:Espadas:24:120";
+    $tmp2[]="12:Reguladores:71:56.2";
+    $tmp2[]="13:Arboles:93:90";
+    $tmp2[]="14:Lentes:36:75";
+    $tmp2[]="15:Tijeras:68:89.9";
+    $tmp2[]="16:Corazones:76:36";
+    $tmp2[]="17:Cadenas:92:619";
+    $tmp2[]="18:Joyas:56:1243.26";
+    $tmp2[]="19:Bocinas:76:673.81";
+    $tmp2[]="20:Lenceria:16:24.62";
+    $tmp2[]="21:Hierba:27:12";
+    $tmp2[]="22:Luces:46:87.1";
+    $tmp2[]="23:Lapices:83:7";
+    $tmp2[]="24:Revistas:72:32.98";
+    $tmp2[]="25:Herramientas:102:63.92";
+    $tmp2[]="26:Pantallas:59:1231.73";
+    $tmp2[]="27:Figuras de accion:69:6.99";
+    $_SESSION['carrito']=$tmp;
+    $_SESSION['catalogo']=$tmp2;
+    $_SESSION['clientazo']="";
+  }
+?>

@@ -1,0 +1,81 @@
+pasos de creación de la TIENDA --------------he quitado en conecta.php conexion_url.php y conexion.php la pass "alumno"
+----------------------
+1- creación del sitio 
+2- crear una carpeta llamada imagenes y descargar de google 3 imágenes.
+3- crear la base de datos llamada tienda. Con una tabla llamada productos con 8 campos.
+id 		autoincrement primary key
+nombre		varchar(50)
+descripción	varchar(100)
+precio		varchar(100)
+stock		varchar(100)
+imagen		varchar(100)
+fecha		varchar(100)
+
+4- crear en principal.php unas tablas para la presentacion de los productos con los supuestos contenidos.
+5- ingresar datos de prueba en la base de datos.
+6- ingresar los botones comprar para que vayan a una nueva página llamada carrito.php
+7- agregar 3 campos más tipo hidden con id nombre cantidad y precio**
+8- recoger las variables del Post
+9- agregar tablas a mi carrito.
+	<VOLVER A PRODUCTOS>
+	LISTADO DE SUS COMPRAS
+**********************************************
+PRODUCTO	PRECIO CANTIDAD SUBTOTAL
+----------------------------------------------
+LAVANDA		50	1	50
+----------------------------------------------
+				TOTAL:50
+10-crear un botón <volver> en carrito.php que vaya a principal.php
+11- cargar las tablas con los valores reales de las variables que llegaron por POST
+12- crear y llenar un array llamado $mi_carrito con el contenido de las variables que vienen por POST id,nombre,precio y cantidad.
+13- Almacenar el array $mi_carrito[] en variables de sesion.
+14-mostrar listado de productos y calcular.
+15-que el usuario pueda ver su carrito desde principal.php.
+
+
+16-control de duplicados y almacenamiento en la variable cantidad.
+17- permitir que el usuario pueda agregar más productos al carrito.
+
+Agregar un formulario en el lugar de la cantidad.Para actualizar los registros. 
+añadimos un campo hidden llamado id2 para enviar la variable $i, el indice de nuestra matriz.
+añadimos otro campo de texto llamado cantidad2.
+preguntar si nos han enviado datos de la actualizacion de la cantidad if(isset($_POST['id2]))
+una imagen en vez del botón normal. La imagen será un icono y actualizará la cantidad.
+
+18- permitir la eliminación de registros en nuestro carrito. 
+Agregar un campo hidden llamado id3.
+19- Crear un botón confirmarPedido.
+
+20-crear un formulario para subir los productos llamado cargarProductos.php con el método de encriptación multipartes
+
+21- crear una pagina que se llama recibirProductos.php
+22- capturar las variables que vienen del archivo cargarProductos.php
+insertamos los datos en la base de datos con un SELECT
+-----puedo organizar todo el carrito en carpetas. video 19 creo principio 21 tb.
+23- en el archivo conexion.php creo una funcion verListado de productos($modo) reutilizando el codigo de principal.php.
+el parametro modo tendrá como valor 'comprar' o 'editar', antes de mostrar el formulario con el botón comprar se preguntará si $modo 'edicion'<> 
+es distinto, continuaré en modo comprar si no iré a la pagina buscar.php, que será igual, pero se podrán editar los productos.
+24- crear un botón login en principal.php que vaya a usuarios/pedirDatos.php luego nos llevará a productos/buscar.php usando
+método de direccionamiento.
+25- arreglar la función verListadodeProductos($modo) preparandola para enviar a edición.
+26-crear productos/editar.php y editar los registros.
+
+27-Crear un nuevo formulario llamado recibirEdicion.php
+-capturar las variables que vienen por POST y por File
+-crerar dos funciones en conecta.php :
+- encontrarReg($id //para buscar registro
+- grabarCambios($id,$nombre,$desc,Sprecio,$stock,$rutaDestino,$fecha);
+-preguntar si el usuario ingreso o no una imagen para subirla.
+
+28- Modificar el formulario confrimarPedido.php para que el cliente pueda ingresar sus 
+datos.
+nombre
+direccion
+correo 
+teléfono
+
+
+
+
+----------------------------------------------
+He modificado las directivas de  buffering=0. Y no funcionan las sesiones............problema con las cabeceras. Buscar solución al problema. Lo vuelvo a poner a 0.

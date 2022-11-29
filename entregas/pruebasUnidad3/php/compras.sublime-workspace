@@ -1,0 +1,908 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_",
+				"$_GET〔variable〕"
+			],
+			[
+				"he",
+				"header('Location:index.php?errorusuario=si"
+			],
+			[
+				"L",
+				"Location:index.php?errorusuario=si"
+			],
+			[
+				"con",
+				"contrasena"
+			],
+			[
+				"sessi",
+				"session_destroy〔function〕"
+			],
+			[
+				"tie",
+				"$tiempo_trasncurrido〔variable〕"
+			],
+			[
+				"ses",
+				"session_name〔function〕"
+			],
+			[
+				"sess",
+				"session_start〔function〕"
+			],
+			[
+				"_S",
+				"$_SESSION〔variable〕"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"lis",
+				"lista_compra"
+			],
+			[
+				"prec",
+				"precioK"
+			],
+			[
+				"fo",
+				"for\tfor …"
+			],
+			[
+				"va",
+				"$value〔variable〕"
+			],
+			[
+				"pre",
+				"$precio_kg〔variable〕"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"pese",
+				"$pesetas〔variable〕"
+			],
+			[
+				"eur",
+				"euros_a_pesetas($euro)\tmixed"
+			],
+			[
+				"pe",
+				"pesetas_a_euros($pesetas)\tmixed"
+			],
+			[
+				"no",
+				"$nombreb〔variable〕"
+			],
+			[
+				"cos",
+				"$coste〔variable〕"
+			],
+			[
+				"n",
+				"$nombreb〔variable〕"
+			],
+			[
+				"temp",
+				"$temporal〔variable〕"
+			],
+			[
+				"mo",
+				"move_uploaded_file"
+			],
+			[
+				"di",
+				"$directorio〔variable〕"
+			],
+			[
+				"ar",
+				"$archivo〔variable〕"
+			],
+			[
+				"pr",
+				"prueba.txt"
+			],
+			[
+				"file",
+				"filesize〔function〕"
+			],
+			[
+				"ru",
+				"$ruta〔variable〕"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"ex",
+				"experiencia"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ind",
+				"$indice_Final〔variable〕"
+			],
+			[
+				"fra",
+				"fraseArray"
+			],
+			[
+				"alt",
+				"$alturas〔variable〕"
+			],
+			[
+				"nom",
+				"$nombres〔variable〕"
+			],
+			[
+				"al",
+				"$alturas〔variable〕"
+			],
+			[
+				"cod",
+				"codificar〔function〕"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"dia",
+				"$dia_cine〔variable〕"
+			],
+			[
+				"fr",
+				"$fraseArray〔variable〕"
+			],
+			[
+				"des",
+				"$desplazamiento〔variable〕"
+			],
+			[
+				"str_",
+				"str_split〔function〕"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"es",
+				"$espacios_blancos〔variable〕"
+			],
+			[
+				"ult",
+				"$ultimaLetra〔variable〕"
+			],
+			[
+				"le",
+				"letras"
+			],
+			[
+				"letras",
+				"$letras_mayusculas〔variable〕"
+			],
+			[
+				"ch",
+				"chr"
+			],
+			[
+				"so",
+				"$sopa_letras〔variable〕"
+			],
+			[
+				"ca",
+				"$capitales〔variable〕"
+			],
+			[
+				"as",
+				"$astros〔variable〕"
+			],
+			[
+				"array_",
+				"array_map〔function〕"
+			],
+			[
+				"f",
+				"for\tfor …"
+			],
+			[
+				"edad",
+				"$edades〔variable〕"
+			],
+			[
+				"p",
+				"php\t<?php … ?>"
+			],
+			[
+				"u",
+				"$ultimaPalabra〔variable〕"
+			],
+			[
+				"ana",
+				"analizar_frase〔function〕"
+			],
+			[
+				"st",
+				"strlen"
+			],
+			[
+				"pala",
+				"$palabra〔variable〕"
+			],
+			[
+				"l",
+				"$long〔variable〕"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"tr",
+				"trim"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"ut",
+				"utf8_encode"
+			],
+			[
+				"str",
+				"strpos"
+			],
+			[
+				"posi",
+				"$posicion2〔variable〕"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"els",
+				"else〔keyword〕"
+			],
+			[
+				"b",
+				"bgcolor\tAttr"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"if",
+				"if\tif …"
+			],
+			[
+				"PREC",
+				"PRECIO_PATATAS"
+			],
+			[
+				"PRE",
+				"PRECIO_JUDIAS〔constant〕"
+			],
+			[
+				"c",
+				"$coste_uvas〔variable〕"
+			],
+			[
+				"nu",
+				"number_format"
+			],
+			[
+				"coste",
+				"$coste_manzanas〔variable〕"
+			],
+			[
+				"pes",
+				"$peso_manzanas〔variable〕"
+			],
+			[
+				"peso",
+				"$peso_tomates〔variable〕"
+			],
+			[
+				"peso_",
+				"$peso_patatas〔variable〕"
+			],
+			[
+				"DIS",
+				"DISTANCIA_TIERRA_SOL〔constant〕"
+			],
+			[
+				"D",
+				"DISTANCIA2"
+			],
+			[
+				"pro",
+				"$profesion〔variable〕"
+			],
+			[
+				"pri",
+				"print〔keyword〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"op",
+				"opdo2"
+			],
+			[
+				"Fa",
+				"FALSE"
+			],
+			[
+				"N",
+				"NULL"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"paddin",
+				"padding-bottom\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"fact",
+				"factorial2($n)\tmixed"
+			],
+			[
+				"function",
+				"create_function"
+			],
+			[
+				"po",
+				"potencia"
+			],
+			[
+				"ra",
+				"rand"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"my",
+				"mysql_connect"
+			],
+			[
+				"re",
+				"$resultado〔variable〕"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"per",
+				"perspective-origin\tproperty"
+			],
+			[
+				"ro",
+				"rotate3d()\ttransform"
+			],
+			[
+				"rot",
+				"rotate3d"
+			],
+			[
+				"tra",
+				"translate"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"colu",
+				"column-rule\tproperty"
+			],
+			[
+				"colum",
+				"column-count\tproperty"
+			],
+			[
+				"bo",
+				"border-image\tproperty"
+			],
+			[
+				"borde",
+				"border\tproperty"
+			],
+			[
+				"ot",
+				"outline-offset\tproperty"
+			],
+			[
+				"o",
+				"outline\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"fil",
+				"filter\tproperty"
+			],
+			[
+				"r",
+				"rgba()\ttext-shadow"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"fl",
+				"flex-start\talign-content"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"alg",
+				"align-self\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"color php",
+				"PHP Coding Standards Fixer: Fix this file (PHP Code Beautifier)"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"rea",
+				"ReadmePlease"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"ReadmePlease"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Turn Execute On Save On"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"php",
+				"SFTP: Show Panel"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"fet",
+				"Fetch: Manage"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 192.0,
+		"history":
+		[
+			"DocPHP",
+			"DocPHP:checkout language;",
+			"DocPHP:checkout language",
+			"DocPHP:checkhout language",
+			"DocPHP:chechout language"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/sannn/Desktop/carro/php/compras.sublime-project",
+		"/C/Users/sannn/Desktop/carro/php/confirmar.php",
+		"/C/Users/sannn/Desktop/carro/php/formulario.php",
+		"/C/Users/sannn/Desktop/carro/php/productos.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad3/sistema autentificacion usuarios/aplicacion.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad3/sistema autentificacion usuarios/salir.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad3/sistema autentificacion usuarios/control.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad3/sistema autentificacion usuarios/seguridad.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad3/sistema autentificacion usuarios/estilo.css",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad3/sistema autentificacion usuarios/index.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad3/sistema autentificacion usuarios/cambios.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/redireccion2/guardar.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/recepcionDatos/verificar.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/redirección/insertar.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/cadenasEmail_2trim_str_replace.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/cadenasEmail.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/3.8arrayAsociativo.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/arraysMultidimensionales.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/3.9ArrayAsociativo.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/arraysAsociativos.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/3.10functionEurosPesetas.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad1/2.8.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/recorrerArray.php",
+		"/C/Users/sannn/Desktop/AlexandraSaez_TareaUnidad2/estilo.css",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/ficheros/subirArchivosServidor.html",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/ficheros/guardar_fichero.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/ficheros/listarContenidoDirectorio.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/ficheros/lecturaFichero.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/ficheros/borrarArchivo.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/ficheros/propiedadesArchivo.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/ficheros/prueba.txt",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/ficheros/escribirArchivo.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/ficheros/refranes.txt",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/ficheros/lecturafichero2.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/estilo.css",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/recepcionDatos/encuesta.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/redireccion2/suscripcion.html",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/redireccion2/error.html",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/redireccion2/confirmacion.html",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/comprobaciónDNI.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/verificar.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/gracias.html",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/insertar.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/encuesta.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/visita.html",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/formulario.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/cripto.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/páginaWebBienConstruida.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/3.7funcionCodificaDesplazamiento.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/cod.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/funciones.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/3.6CodificarDesplazamiento.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/3.5ArrayIndexado.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/3.4Email.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/strolower.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/metodoSort_ordenarLista.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/3.3Nif_valido.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/mayusculasMinusculas.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/3.2analizar_frase.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad2Avanzados/3.1Mostrar_impares.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad1Apuntes/iterativas.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad1Apuntes/bucleCentinela.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/FragmentosCodigoEnCond2formas.php",
+		"/C/Users/sannn/AppData/Roaming/Sublime Text 3/Packages/User/untitled.sublime-build",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad1/2.5.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/bucleCentinela.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad1/2.12.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad1/2.6.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad1/2.2.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/condionionales.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad1/2.10.php",
+		"/C/Users/sannn/AppData/Roaming/Sublime Text 3/Packages/CodeFormatter/CodeFormatter.sublime-settings",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/extracciónCaracteres.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/usoSintaxisAbreviada.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/usoEcho.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/unidad2bApuntes/variablesEnCadenas.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/iterativas.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad1/2.13.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad1/2.9.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad1/2.1.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad1/2.3.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad1/2.7.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad1/2.4.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/ejerciciosUnidad1/1.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/tablaMultiplicar.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/instruccionIf.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/tiposDatos.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/bucleMixto.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/bucleContador.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/functionFactorial2.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/function1.php",
+		"/C/Users/sannn/Documents/daw/php/practicas/functionFactorial.php",
+		"/C/Users/sannn/Documents/trabajo/php/videoteca/inserciones.php",
+		"/C/basesDatos/proc1.sql",
+		"/C/basesDatos/inserciones_procedimientos.sql",
+		"/C/basesDatos/procedimientos.sql",
+		"/C/basesDatos/crear.sql",
+		"/C/Users/sannn/Documents/trabajo/php/videoteca/usuarios.php",
+		"/C/Users/sannn/Documents/trabajo/php/videoteca/generos.php",
+		"/C/xampp/htdocs/tienda/buscar.php",
+		"/C/xampp/htdocs/tienda/editar.php",
+		"/C/xampp/htdocs/tienda/conecta.php",
+		"/C/xampp/htdocs/tienda/restringida.php",
+		"/C/xampp/htdocs/tienda/registro.php",
+		"/C/xampp/htdocs/tienda/login.php",
+		"/C/xampp/htdocs/tienda/pidoDatos.php",
+		"/C/xampp/htdocs/tienda/recibirEditar.php",
+		"/C/Users/sannn/Documents/daw/php/1/copia htpd.conf apache/Nuevo documento de texto.txt",
+		"/C/Users/sannn/Desktop/udemyhtml/1.html",
+		"/C/Users/sannn/Desktop/udemyhtml/22+-+Responsive.css",
+		"/C/xampp/htdocs/tienda/carrito.php",
+		"/C/xampp/htdocs/tienda/conexion.php",
+		"/C/xampp/htdocs/tienda/plantilla/footer.php",
+		"/C/xampp/htdocs/tienda/estilo.css",
+		"/C/xampp/htdocs/tienda/plantilla/head.php",
+		"/C/xampp/htdocs/tienda/css/estilo.css",
+		"/C/xampp/htdocs/tienda/estilo2.css",
+		"/C/xampp/htdocs/tienda/index.html",
+		"/C/xampp/htdocs/tienda/galeria.html",
+		"/C/xampp/htdocs/practicas/functionFactorial.php",
+		"/C/xampp/htdocs/practicas/function1.php",
+		"/C/xampp/htdocs/practicas/functionFactorial2.php",
+		"/C/xampp/htdocs/practicas/bucleCentinela.php",
+		"/C/xampp/htdocs/practicas/bucleContador.php",
+		"/C/xampp/htdocs/practicas/bucleMixto.php",
+		"/C/xampp/htdocs/practicas/AlexandraSaez.php",
+		"/C/xampp/htdocs/practicas/AlexandraSaez.html",
+		"/C/Users/sannn/Desktop/imagenResponsive/estilo.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 127.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 36.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 156.0
+	},
+	"pinned_build_system": "",
+	"project": "compras.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 224.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

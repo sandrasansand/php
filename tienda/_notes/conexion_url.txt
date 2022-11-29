@@ -1,0 +1,11 @@
+<?php
+$conexion=mysql_connect('localhost','root','') or die('no hay conexion a la base de datos');
+$db=mysql_select_db('tienda',$conexion) or die ('no existe la base de datos');
+
+define ('BASE_URL','http://localhost/tienda/');
+
+function base_URL($cad){
+RETURN base_URL.$cad;
+};
+?>
+

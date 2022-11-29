@@ -1,0 +1,16 @@
+<style type="test/css">
+
+div{
+borde:0px solid black;
+padding: 5px 20px;
+background: #FFFFCC;
+width: 150px;
+height: 160px;
+-moz-border-radius :5xp 5px 5px 5px;
+-webkit-border-radius: 5px 5px 5px 5px;
+box-shadow: 5px 2px 30px #000000;
+-webkit-box-shadow:5px 2px 30px #000000;
+-moz-box-shadow:5px 2px 30px #000000;
+word-wrap:break-word;
+}
+</style>

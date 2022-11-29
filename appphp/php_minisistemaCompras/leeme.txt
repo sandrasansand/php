@@ -1,0 +1,9 @@
+ Autor: Pedro Cardoso Rodriguez
+ Correo: cardp_2004@yahoo.com.mx
+
+minisistema de compras usando variables de sesion
+  crea un catalogo de productos con precio y existencias
+  crea un carrito vacio para un cliente y le permite agregar productos 
+  al final permite facturar las compras realizadas
+  
+  Probado en EasyPHP 1.8.0.0  
