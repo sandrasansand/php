@@ -43,21 +43,8 @@ CREATE TABLE `products` (
 --
 
 INSERT INTO `products` (`id`, `imagen`, `nombre`, `descripcion`, `precio`, `stock`, `fecha`) VALUES
-(2, 'imagenes/arnica.jpg', 'arnica', 'planta dermatolÃ³gica', '2.00', '10', '2018-04-27'),
-(3, 'imagenes/aloe.jpg', 'aloe', 'planta..', '1.00', '10', '2018-04-28'),
-(5, 'imagenes/melisa.jpg', 'melisa', 'planta del genero', '2.00', '5', '2018-04-28'),
-(6, 'imagenes/tomillo.jpg', 'tomillo', 'planta antibacteriana', '2.00', '10', '2018-05-10'),
-(7, 'imagenes/albahaca.jpg', 'albahaca', 'planta..', '2.00', '5', '2018-05-10'),
-(8, 'imagenes/eneldo.jpg', 'eneldo', 'planta..', '1.50', '10', '2018-05-10'),
-(9, 'imagenes/calendula.jpg', 'calendula', 'planta dermatolÃ³gica', '1.50', '10', '2018-05-10'),
-(10, 'imagenes/salvia.jpg', 'salvia', 'planta menstruaciÃ³n', '1.50', '10', '2018-05-12'),
-(11, 'imagenes/romero.jpg', 'romero', 'planta antiinflamatoria', '1.50', '10', '2018-05-12'),
-(12, 'imagenes/menta.jpg', 'mentha', 'planta..', '1.50', '10', '2018-05-12'),
-(14, 'imagenes/ortiga.png', 'ortiga', 'planta..', '1.50', '10', '2018-05-12'),
-(15, 'imagenes/salvia.jpg', 'salvia', 'planta menstruaciÃ³n', '1.50', '10', '2018-05-15'),
-(16, 'imagenes/diente.jpg', 'diente de leon', 'planta digestiva', '1.50', '10', '2018-05-15'),
-(17, 'imagenes/lavanda.JPG', 'lavanda', 'planta de color morado', '1.50', '10', '2018-05-15'),
-(18, 'imagenes/ortiga.png', 'ortiga', 'contiene hierro', '1.50', '10', '2018-05-17');
+(1, 'imagenes/imagen.jpg', 'nombre', 'descripciona', '2.00', '10', '2018-04-27'),
+
 
 -- --------------------------------------------------------
 
