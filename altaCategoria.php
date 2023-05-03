@@ -1,5 +1,4 @@
 <?php 
-
 session_start();
 include 'funciones.php';
 if (!isset($_SESSION['miSession']['permisos'])) {
