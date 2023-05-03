@@ -10,9 +10,9 @@ function parametrizar_plantilla($variable){
 function conectar_dblocal()
 {
 	$server = "db5002318158.hosting-data.io";
-	$user = "***********";
-	$pass = "************";
-	$bd = "*********";
+	$user = "dbu1341243";
+	$pass = "KokoroWeb741@.";
+	$bd = "dbs1864811";
 
 		$conexion = mysqli_connect($server, $user, $pass, $bd) or die("Ha sucedido un error inexperado en la conexion de la base de datos" . mysqli_connect_error());
 
@@ -22,7 +22,7 @@ function conectar_dblocal()
 	
 	function conectar_dbObjLocal(){
 		try {
-			$con=new PDO('mysql:host=db5002318158.hosting-data.io;dbname=*****','******','*********');
+			$con=new PDO('mysql:host=db5002318158.hosting-data.io;dbname=dbs1864811','dbu1341243','KokoroWeb741@.');
 			$con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 		} catch (Exception $e) {
 			echo "Error concectando con la base de datos" . $e->getMessage();
@@ -33,9 +33,9 @@ function conectar_dblocal()
 
 	function conectar_db(){
 		$host_name = 'db5002318158.hosting-data.io';
-		$database = '*******';
-		$password = '**********';
-		$user_name = '********';
+		$database = 'dbs1864811';
+		$password = 'KokoroWeb741@.';
+		$user_name = 'dbu1341243';
 
 		$dbh = null;
 
@@ -50,9 +50,9 @@ function conectar_dblocal()
 	function conectar_db2()
 	{
 		$server ='db5002318158.hosting-data.io';
-		$user_name ='********';
-		$password ='**********';
-		$database ='********';
+		$user_name ='dbu1341243';
+		$password ='KokoroWeb741@.';
+		$database ='dbs1864811';
 
 		$link = new mysqli($server, $user_name, $password, $database);
 
