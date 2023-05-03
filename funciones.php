@@ -10,9 +10,9 @@ function parametrizar_plantilla($variable){
 function conectar_dblocal()
 {
 	$server = "db5002318158.hosting-data.io";
-	$user = "dbu1341243";
-	$pass = "KokoroWeb741@.";
-	$bd = "dbs1864811";
+	$user = "";
+	$pass = "";
+	$bd = "";
 
 		$conexion = mysqli_connect($server, $user, $pass, $bd) or die("Ha sucedido un error inexperado en la conexion de la base de datos" . mysqli_connect_error());
 
@@ -33,9 +33,9 @@ function conectar_dblocal()
 
 	function conectar_db(){
 		$host_name = 'db5002318158.hosting-data.io';
-		$database = 'dbs1864811';
-		$password = 'KokoroWeb741@.';
-		$user_name = 'dbu1341243';
+		$database = '';
+		$password = '';
+		$user_name = '3';
 
 		$dbh = null;
 
@@ -50,9 +50,9 @@ function conectar_dblocal()
 	function conectar_db2()
 	{
 		$server ='db5002318158.hosting-data.io';
-		$user_name ='dbu1341243';
-		$password ='KokoroWeb741@.';
-		$database ='dbs1864811';
+		$user_name ='';
+		$password ='';
+		$database ='';
 
 		$link = new mysqli($server, $user_name, $password, $database);
 
