@@ -35,7 +35,7 @@ function conectar_dblocal()
 		$host_name = 'db5002318158.hosting-data.io';
 		$database = '';
 		$password = '';
-		$user_name = '3';
+		$user_name = '';
 
 		$dbh = null;
 
