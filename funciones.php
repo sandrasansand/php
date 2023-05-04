@@ -9,7 +9,7 @@ function parametrizar_plantilla($variable){
 
 function conectar_dblocal()
 {
-	$server = "db5002318158.hosting-data.io";
+	$server = "**************";
 	$user = "";
 	$pass = "";
 	$bd = "";
@@ -22,7 +22,7 @@ function conectar_dblocal()
 	
 	function conectar_dbObjLocal(){
 		try {
-			$con=new PDO('mysql:host=db5002318158.hosting-data.io;dbname=dbs1864811','dbu1341243','KokoroWeb741@.');
+			$con=new PDO('mysql:host=**********;dbname=*********','***********','*********');
 			$con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 		} catch (Exception $e) {
 			echo "Error concectando con la base de datos" . $e->getMessage();
@@ -32,7 +32,7 @@ function conectar_dblocal()
 
 
 	function conectar_db(){
-		$host_name = 'db5002318158.hosting-data.io';
+		$host_name = '***********';
 		$database = '';
 		$password = '';
 		$user_name = '';
@@ -49,7 +49,7 @@ function conectar_dblocal()
 
 	function conectar_db2()
 	{
-		$server ='db5002318158.hosting-data.io';
+		$server ='';
 		$user_name ='';
 		$password ='';
 		$database ='';
